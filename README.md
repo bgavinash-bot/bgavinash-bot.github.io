@@ -1,12 +1,22 @@
-# Privacy Policy for Check Calculator
+# Privacy Policy for Calculator Applications by BrownDwarf
 
 **Effective Date:** June 6 2026
 
-**BrownDwarf** built the **Check Calculator** app as a Free app. This SERVICE is provided by **BrownDwarf** and is intended for use as is.
+**BrownDwarf** built the **Check Calculator** app. This SERVICE is provided by **BrownDwarf** and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+This privacy policy applies for the following browndwarf developed applications.
+
+|**Application Name**|**Package Name**|
+|----------|----------|
+|1. Citizen Calculator GST 🇮🇳 | com.browndwarf.checkcalculator |
+|2. GST Calculator pro | com.browndwarf.procalc |
+|3. TapeCalc | com.browndwarf.tapecalc |
+|4. TaxPlus Calculator GST Citizen | com.browndwarf.taxplus |
+
 
 ## 1. Information Collection and Use
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
